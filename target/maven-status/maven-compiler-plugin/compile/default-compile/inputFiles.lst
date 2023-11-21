@@ -1,4 +1,6 @@
+C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\models\V_statistic.java
 C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\models\Statistic.java
+C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\repositories\VStatisticRepos.java
 C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\models\Joueur.java
 C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\repositories\EquipeRepos.java
 C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\repositories\StatisticRepos.java
@@ -8,6 +10,7 @@ C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\controllers\E
 C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\controllers\StatisticController.java
 C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\models\Equipe.java
 C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\controllers\MatchController.java
+C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\controllers\VStatisticController.java
 C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\StockApplication.java
 C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\repositories\JoueurRepos.java
 C:\Users\SEPT\Documents\GitHub\stock\src\main\java\com\harry\stock\controllers\JoueurController.java
